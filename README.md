@@ -26,7 +26,7 @@ The application fetches and displays a list of book categories. When a category 
 A video explanation of the project has been created to demonstrate its features and functionality. It covers how users can toggle dark mode, sign up and log in, view book details, and navigate through different book categories.
 
 ## Submission
-- Hosted link: https://nileshtiwari04.github.io/FS-21-Assignments/javascript%20Assignment/book-store/index.html
+- Hosted link: (https://weekly-test-5-sepia.vercel.app/)
 
 ## Conclusion
 This project showcases the implementation of various functionalities taught in the class, providing a comprehensive solution for the Weekly Test - 5 assignment. The user-friendly interface, dark mode, and effective book detail display enhance the user experience, making it easier for users to find and view book details.
